@@ -13,4 +13,7 @@ This repository contains Salesforce Admini case studies demonstrating practical 
 - Security & Access Management
 - Reports & Dashboards
 - Approval Processes
+- Profiles & Permission Sets
+- Validation Rules
+- Custom Objects & Fields
   
