@@ -1,6 +1,6 @@
 # Salesforce Admin Case Studies
  
-This repository contains Salesforce Admini case studies demonstrating practical solutions using Salesforce configuration, automation, security, reporting, and business process optimization.
+This repository contains Salesforce Admin case studies demonstrating practical solutions using Salesforce configuration, automation, security, reporting, and business process optimization.
  
 ## Case Studies
  
